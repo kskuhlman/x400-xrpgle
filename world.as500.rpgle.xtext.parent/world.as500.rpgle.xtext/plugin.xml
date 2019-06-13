@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin>
+	<extension point="org.eclipse.emf.ecore.generated_package">
+		<package 
+			uri = "http://www.as500.world/xrpgle/xtext/XRPGLE"
+			class = "world.as500.rpgle.xtext.xRPGLE.XRPGLEPackage"
+			genModel = "model/generated/XRPGLE.genmodel" />
+	</extension>
+</plugin>
